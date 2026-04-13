@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "pic2.jpeg"
   name             : "Nora Wagner"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "she/her"  
+  bio              : ""
   location         : "Vienna"
   employer         : "University of Vienna"
   uri              : # URL
@@ -42,7 +42,6 @@ author:
 
   # Social media
   bluesky          : "norawagner99.bsky.social" # Replace this with you Bluesky username
-  linkedin         : 'norawagner@gmx.at' # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
