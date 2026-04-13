@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Origin and age of the Carina young local association<br />Krakow, EAS 2023; Krakow, Poland",
+    "Origin and age of the Carina young local association<br />EAS 2023; Krakow, Poland",
     50.0619474,
     19.9368564
   ],
