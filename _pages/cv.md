@@ -11,7 +11,7 @@ redirect_from:
 - **PhD in Astronomy** (In Progress)
 - **MSc in Computational Science**
 - **MSc in Astronomy**
-- **BSc in Astrophysics**
+- **BSc in Astronomy**
 
 ## Positions
 - PhD Student in Astrophysics (University of Vienna)
@@ -23,7 +23,7 @@ redirect_from:
 - Galactic Dynamics
 
 ## Co-Author Publications
-- "The TW Hydrae Association is a cluster chain of Sco-Cen in Astronomy & Astrophysics" (2025)
+- "The TW Hydrae Association is a cluster chain of Sco-Cen" (Astronomy & Astrophysics, 2025)
 
 ## Talks
 - **Invited Talks:**
