@@ -35,14 +35,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  orcid            : "https://orcid.org/yourorcidurl"
-  researchgate     : # URL
+  orcid            : "https://orcid.org/0009-0002-6372-0614"
 
   # Repositories and software development
   github           : "academicpages"
 
   # Social media
-  bluesky          : "norawagner99" # Replace this with you Bluesky username
+  bluesky          : "norawagner99.bsky.social" # Replace this with you Bluesky username
   linkedin         : 'norawagner@gmx.at' # Username
 
 # Publication Category - The following the list of publication categories and their headings
